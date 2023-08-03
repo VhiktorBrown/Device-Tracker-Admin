@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "860887329281",
+    "project_id": "device-tracker-54c82",
+    "storage_bucket": "device-tracker-54c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860887329281:android:3aea2dffb4c86fc9c06e00",
+        "android_client_info": {
+          "package_name": "com.theelitedevelopers.device_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860887329281-4be7qi43m09lgtssqtdkokhtbv6t3ll2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theelitedevelopers.device_tracker",
+            "certificate_hash": "09a15674cc4e47890d7b761a4bbbe1f98df792f2"
+          }
+        },
+        {
+          "client_id": "860887329281-jdggeg0k45kma88bftrudq7nfb53p1cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theelitedevelopers.device_tracker",
+            "certificate_hash": "321d3397267144baebf118b09f5d73ef2ccbdfa4"
+          }
+        },
+        {
+          "client_id": "860887329281-pvmrfcofpk1k10rc5u5hucjdpjnj9f0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVagdqb_ZYdLOGwns2mYE-vuJ3V7dpsEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860887329281-pvmrfcofpk1k10rc5u5hucjdpjnj9f0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860887329281:android:105c688f9596589ec06e00",
+        "android_client_info": {
+          "package_name": "com.theelitedevelopers.device_tracker_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860887329281-frb34no6j2e149ki6sla2sru2v8dk60k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theelitedevelopers.device_tracker_admin",
+            "certificate_hash": "321d3397267144baebf118b09f5d73ef2ccbdfa4"
+          }
+        },
+        {
+          "client_id": "860887329281-pvmrfcofpk1k10rc5u5hucjdpjnj9f0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVagdqb_ZYdLOGwns2mYE-vuJ3V7dpsEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860887329281-pvmrfcofpk1k10rc5u5hucjdpjnj9f0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
